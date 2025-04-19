@@ -32,14 +32,20 @@ Currently, it contains one agent: "Simple Agent & simple tool example ".
 
     ```bash
     pip install -r requirements.txt
-    ```
+
+
+4. **Check Python installion info here :**
+
+```
 welcome@jaisairams-Laptop adk-simple % pwd            
 /Users/welcome/Desktop/Tech_Repos/adk-simple
 welcome@jaisairams-Laptop adk-simple % python -m venv .venv
 zsh: command not found: python
 welcome@jaisairams-Laptop adk-simple % source ~/.zprofile.sh
-welcome@jaisairams-Laptop adk-simple % python -m venv .venv 
+welcome@jaisairams-Laptop adk-simple % python -m venv .venv
 welcome@jaisairams-Laptop adk-simple % source .venv/bin/activate
-(.venv) welcome@jaisairams-Laptop adk-simple % 
-(.venv) welcome@jaisairams-Laptop adk-simple % 
-(.venv) welcome@jaisairams-Laptop adk-simple % 
+(.venv) welcome@jaisairams-Laptop adk-simple %
+(.venv) welcome@jaisairams-Laptop adk-simple %
+(.venv) welcome@jaisairams-Laptop adk-simple %
+
+```
